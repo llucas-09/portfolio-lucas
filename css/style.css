@@ -1,10 +1,10 @@
 :root {
-  --cor-bg: #f5f6fa;
+  --cor-bg: #111213;
   --cor-texto: #1e1e2f;
-  --cor-primaria: #6C63FF;
-  --cor-secundaria: #FF6584;
+  --cor-primaria: #030303;
+  --cor-secundaria: #292828;
   --cor-bg-dark: #121212;
-  --cor-texto-dark: #f1f1f1;
+  --cor-texto-dark: #030303;
   --cor-card-dark: #1f1f1f;
 }
 
